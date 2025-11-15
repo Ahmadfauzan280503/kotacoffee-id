@@ -21,7 +21,7 @@ const Login = () => {
       <CardHeader className="flex flex-col items-center pt-8">
         <h2 className="text-2xl font-bold">Masuk</h2>
         <p className="text-foreground-500 text-sm">
-          Masuk untuk mulai berbelanja sayuran segar
+          Masuk untuk mulai berbelanja di kotacoffee.id
         </p>
       </CardHeader>
       <CardBody>

@@ -45,17 +45,17 @@ const Explore = () => {
         <div className="flex items-center justify-between mb-6 gap-2">
           <div>
             <h1 className="text-lg lg:text-2xl font-bold text-foreground">
-              Jelajahi Sayur Segar
+              Jelajahi KOTACOFFEE.ID
             </h1>
             <p className="text-foreground-500 text-xs lg:text-base">
-              Temukan sayuran dan buah segar langsung dari petani
+              Temukan product minuman kami yang segar dan nikmati hari Anda!
             </p>
           </div>
 
           <div>
             <Input
               suppressHydrationWarning
-              placeholder="Cari sayur segar..."
+              placeholder="Cari produk minuman..."
               startContent={
                 <SearchIcon className="text-default-400 pointer-events-none flex-shrink-0" />
               }

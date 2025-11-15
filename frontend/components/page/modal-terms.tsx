@@ -66,7 +66,7 @@ const ModalTerms = ({
                     segar berkualitas tinggi. Layanan kami meliputi:
                   </p>
                   <ul className="list-disc list-inside text-foreground-500 space-y-1 ml-4">
-                    <li>Penjualan sayuran segar dan organik</li>
+                    <li>Penjualan product minuman dan beans coffee</li>
                     <li>Sistem pembayaran online yang aman</li>
                     <li>Layanan pengiriman ke alamat tujuan</li>
                     <li>Dukungan pelanggan</li>
@@ -212,9 +212,9 @@ const ModalTerms = ({
                     ini, silakan hubungi kami:
                   </p>
                   <div className="mt-3 space-y-1 text-foreground-500 ml-4">
-                    <p>Email: support@sayuranberkah.com</p>
-                    <p>Telepon: +62 812-3456-7890</p>
-                    <p>Alamat: Jl. Sayuran Segar No. 123, Jakarta</p>
+                    <p>Email: support@kotacoffee.id.com</p>
+                    <p>Telepon: +62 821-7756-1275</p>
+                    <p>Alamat: Jl. Mamoa Raya V, Kota Makassar</p>
                   </div>
                 </section>
 

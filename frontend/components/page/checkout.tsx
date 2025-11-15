@@ -242,7 +242,7 @@ const Checkout = () => {
                   ✨ Hemat Rp 5.000
                 </p>
                 <p className="text-xs text-foreground-500">
-                  Pembelian langsung dari petani
+                  Pembelian untuk Dine-In
                 </p>
               </div>
 

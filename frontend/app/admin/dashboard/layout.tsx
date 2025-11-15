@@ -44,14 +44,14 @@ const AdminDashboardLayout = ({ children }: { children: React.ReactNode }) => {
           <div className="flex items-center justify-between h-16 px-6">
             <Link className="flex justify-start items-center gap-2" href="/">
               <Image
-                src="/images/logo-sayur.png"
+                src="/images/logo.png"
                 alt="logo"
                 width={40}
                 height={40}
               />
               <div>
-                <p className="font-bold text-inherit">SayurSegar</p>
-                <p className="text-xs text-default-500">Langsung dari petani</p>
+                <p className="font-bold text-inherit">KOTACOFFEE.ID</p>
+                <p className="text-xs text-default-500">Kopi Trotoar</p>
               </div>
             </Link>
             <Button

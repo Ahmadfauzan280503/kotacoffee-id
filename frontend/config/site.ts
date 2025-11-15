@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Sayur Segar",
-  description: "Sayur Segar dari Petani Lokal",
+  name: "Kota Coffee.id",
+  description: "Kopi Trotoar",
   navItems: [
     {
       label: "Home",

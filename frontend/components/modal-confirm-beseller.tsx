@@ -35,7 +35,7 @@ const ModalConfirmBeseller = ({
                     Keuntungan menjadi penjual:
                   </h4>
                   <ul className="text-sm text-emerald-700 space-y-1 dark:text-emerald-100">
-                    <li>• Dapat menjual produk sayuran segar</li>
+                    <li>• Dapat menjual produk</li>
                     <li>• Akses ke dashboard penjual</li>
                     <li>• Kelola pesanan dan inventori</li>
                     <li>• Dapatkan penghasilan tambahan</li>

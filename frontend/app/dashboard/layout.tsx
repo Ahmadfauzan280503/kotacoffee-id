@@ -50,8 +50,8 @@ const DashboardLayout = ({ children }: { children: React.ReactNode }) => {
                 height={40}
               />
               <div>
-                <p className="font-bold text-inherit">SayurSegar</p>
-                <p className="text-xs text-default-500">Langsung dari petani</p>
+                <p className="font-bold text-inherit">KOTACOFFEE.ID</p>
+                <p className="text-xs text-default-500">Kopi Trotoar</p>
               </div>
             </Link>
             <Button

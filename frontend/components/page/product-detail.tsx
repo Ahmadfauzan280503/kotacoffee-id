@@ -68,7 +68,7 @@ const ProductDetail = ({ product }: { product: TProduct }) => {
                 variant="solid"
                 size="sm"
               >
-                Organik
+                Beans Coffee
               </Chip>
             )}
           </div>

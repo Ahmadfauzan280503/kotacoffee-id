@@ -80,7 +80,7 @@ const Product = () => {
                   color="primary"
                   className="text-lg cursor-pointer active:opacity-50"
                   as={Link}
-                  href={`/dashboard/product/edit/${product.id}`}
+                  href={`./edit/index.tsx/${product.id}`}
                 >
                   <FiEdit />
                 </Button>

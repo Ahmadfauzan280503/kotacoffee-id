@@ -4,7 +4,7 @@ import { Button } from "@heroui/button";
 import { FaShieldAlt, FaShoppingCart } from "react-icons/fa";
 import { FiTruck } from "react-icons/fi";
 import { LuLeaf } from "react-icons/lu";
-import heroVegetables from "@/public/images/hero-vegetables.jpg";
+import heroVegetables from "@/public/images/profile.png";
 import Image from "next/image";
 import Link from "next/link";
 import useProfile from "@/hooks/useProfile";
@@ -33,7 +33,7 @@ const HeroSection = () => {
               delay={0.5}
               preset="fade"
             >
-              Sayuran Segar
+              WELCOME TO
             </TextEffect>
             <TextEffect
               className="text-4xl lg:text-5xl font-bold block bg-gradient-to-r from-green-500 to-green-300 bg-clip-text text-transparent py-2 -mt-8"
@@ -41,7 +41,7 @@ const HeroSection = () => {
               preset="fade"
               delay={0.5}
             >
-              Langsung dari Petani
+              KOTA COFFEE.ID
             </TextEffect>
             <TextEffect
               per="char"
@@ -53,8 +53,8 @@ const HeroSection = () => {
               }}
               className="text-lg text-foreground-500 max-w-md"
             >
-              Dapatkan sayuran segar berkualitas tinggi langsung dari petani
-              lokal. Dikirim hari ini, sampai besok pagi.
+              Kami menyediakan berbagai macam kopi dengan kualitas terbaik
+              untuk dinikmati setiap hari.
             </TextEffect>
             {/* Text effect end */}
 
@@ -105,7 +105,7 @@ const HeroSection = () => {
                     onOpenChange();
                   }}
                 >
-                  Jadi Pedagang
+                  Silahkan Registrasi
                 </Button>
               ) : null}
             </AnimatedGroup>
@@ -134,9 +134,9 @@ const HeroSection = () => {
                 </div>
                 <div>
                   <p className="font-medium text-sm text-foreground">
-                    Jaminan Segar
+                    Kami pakai beans blands
                   </p>
-                  <p className="text-xs text-muted-foreground">100% Fresh</p>
+                  <p className="text-xs text-muted-foreground">100% Baru & Fresh</p>
                 </div>
               </div>
 
@@ -146,7 +146,7 @@ const HeroSection = () => {
                 </div>
                 <div>
                   <p className="font-medium text-sm text-foreground">
-                    Produk Organik
+                    Produk Beans
                   </p>
                   <p className="text-xs text-muted-foreground">Tersedia</p>
                 </div>
@@ -178,7 +178,7 @@ const HeroSection = () => {
               <div className=" bg-gradient-to-br from-success/20 to-success-200/10 dark:from-emerald-500/10 dark:to-emerald-500/20 rounded-3xl p-4">
                 <Image
                   src={heroVegetables}
-                  alt="Sayuran Segar"
+                  alt="Kota Coffee.id"
                   className="w-full h-auto rounded-2xl shadow-2xl"
                 />
               </div>

@@ -39,7 +39,7 @@ const Register = () => {
       <CardHeader className="flex flex-col items-center pt-8">
         <h2 className="text-2xl font-bold">Daftar</h2>
         <p className="text-foreground-500 text-sm">
-          Buat akun baru untuk mulai berbelanja sayuran segar
+          Buat akun baru untuk mulai berbelanja di kotacoffee.id
         </p>
       </CardHeader>
       <CardBody>

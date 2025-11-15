@@ -15,15 +15,15 @@ const FeatureProduct = () => {
         <div className="flex items-center justify-between mb-8">
           <div>
             <h2 className="text-2xl font-bold text-foreground mb-2">
-              Produk Unggulan
+              Produk Best seller
             </h2>
             <p className="text-foreground-500">
-              Sayuran pilihan terbaik hari ini
+              Produk minuman pilihan terbaik hari ini
             </p>
           </div>
           <Button
             as={Link}
-            href="/explore"
+            href="/frontend/app/explore/page.tsx"
             variant="light"
             color="success"
             className="hover:text-success-300 font-medium"

@@ -13,7 +13,7 @@ const CategorySection = () => {
     <section id="categories" className="py-8">
       <div className="container mx-auto px-4">
         <h2 className="text-2xl font-bold text-foreground mb-6">
-          Kategori Sayuran
+          Kategori Produk Minuman
         </h2>
 
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
